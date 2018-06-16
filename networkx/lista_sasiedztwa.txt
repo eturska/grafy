@@ -1,0 +1,7 @@
+#C:/Users/Ewelina/networkx/DrawSaveGraph.py
+# GMT Fri Jun 15 20:02:05 2018
+# 
+0 1 3
+1 3
+2
+3
